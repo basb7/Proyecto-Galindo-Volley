@@ -1,3 +1,7 @@
+html{
+    margin: 0;
+    padding: 0;
+}
 .wave{
     height: 5rem;
     background-color: white;
@@ -13,7 +17,7 @@
 .bgFooter{
     background-color: #1B262C;
     color: white;
-    height: 22rem;   
+    height: 25rem;   
     font-family: 'Roboto', sans-serif;
 }
 .subs{
